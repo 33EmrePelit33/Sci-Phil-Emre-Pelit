@@ -1,0 +1,58 @@
+{
+  "version": "2026.10.23",
+  "start_date": "2026-04-24",
+  "end_date": "2026-10-23",
+  "description": "Emre Pelit (emrepelit39@gmail.com • www.linkedin.com/in/emrepelit109) ekosistemindeki 8 web sitesinin açılış zamanından (24 Nisan 2026) itibaren elde ettiği okunma ve görüntüleme verileri.",
+  "primary_portal": {
+    "domain": "science-philosophy.grok.me",
+    "title": "Science · Kalıcı Philosophy",
+    "base_reads": 32486,
+    "base_views": 32488,
+    "live_reads_added": 6240,
+    "live_views_added": 8640,
+    "net_reads": 38726,
+    "page_views": 41128
+  },
+  "blogger_ecosystem": {
+    "domain": "emrepelit7337.blogspot.com",
+    "title": "Emre Pelit Blogger Külliyatı",
+    "base_reads": 25431,
+    "base_views": 45622,
+    "live_reads_added": 4580,
+    "live_views_added": 9420,
+    "net_reads": 30011,
+    "page_views": 55042
+  },
+  "emre_pelit_sci_phi": {
+    "domain": "emre-pelit-sci-phi.ai.studio",
+    "title": "Emre Pelit Sci-Phi AI Studio Portalı (Birincil 301 Ana Hedef Hub)",
+    "base_reads": 3410,
+    "base_views": 5480,
+    "live_reads_added": 1240,
+    "live_views_added": 2150,
+    "net_reads": 4650,
+    "page_views": 7630,
+    "listening_minutes": 9360
+  },
+  "sci_phil_ai_studio": {
+    "domain": "sci-phil.ai.studio",
+    "title": "Sci-Phil AI Studio Web Portalı",
+    "base_reads": 4820,
+    "base_views": 7640,
+    "live_reads_added": 1680,
+    "live_views_added": 2890,
+    "net_reads": 6500,
+    "page_views": 10530,
+    "listening_minutes": 12900
+  },
+  "consolidated_totals": {
+    "base_net_reads": 66178,
+    "base_page_views": 91287,
+    "live_reads_added": 15324,
+    "live_views_added": 25417,
+    "combined_net_reads": 81502,
+    "cumulative_page_views": 116704,
+    "net_listening_minutes": 180200,
+    "net_listening_formatted": "3.003 sa 20 dk"
+  }
+}

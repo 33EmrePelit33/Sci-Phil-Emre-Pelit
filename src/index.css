@@ -1,0 +1,213 @@
+@import "tailwindcss";
+
+/* Smooth transitions and custom scrollbar */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* ============================================================================
+   AÇIK AKADEMİK KAĞIT (GÜNDÜZ / PAPER) TEMASI
+   html[data-theme="paper"] aktif olduğunda koyu slate yüzeyleri
+   sıcak akademik fildişi/kağıt tonlarına ve yüksek kontrastlı mürekkep
+   metin renklerine dönüştürür.
+   ============================================================================ */
+html[data-theme="paper"] body,
+html[data-theme="paper"] .bg-slate-950 {
+  background-color: #f8f5ee !important;
+  color: #1c1917 !important;
+}
+
+html[data-theme="paper"] .bg-slate-950\/90,
+html[data-theme="paper"] .bg-slate-950\/95,
+html[data-theme="paper"] .bg-slate-950\/80,
+html[data-theme="paper"] .bg-slate-950\/60 {
+  background-color: rgba(248, 245, 238, 0.94) !important;
+  color: #1c1917 !important;
+}
+
+html[data-theme="paper"] .bg-slate-900,
+html[data-theme="paper"] .bg-slate-900\/95,
+html[data-theme="paper"] .bg-slate-900\/90,
+html[data-theme="paper"] .bg-slate-900\/80,
+html[data-theme="paper"] .bg-slate-900\/75,
+html[data-theme="paper"] .bg-slate-900\/70,
+html[data-theme="paper"] .bg-slate-900\/60 {
+  background-color: #ffffff !important;
+  color: #1c1917 !important;
+  box-shadow: 0 2px 10px rgba(28, 25, 23, 0.05);
+}
+
+html[data-theme="paper"] .bg-slate-800,
+html[data-theme="paper"] .bg-slate-800\/50 {
+  background-color: #efeae0 !important;
+  color: #292524 !important;
+}
+
+html[data-theme="paper"] .border-slate-900,
+html[data-theme="paper"] .border-slate-800,
+html[data-theme="paper"] .border-slate-800\/90,
+html[data-theme="paper"] .border-slate-800\/80,
+html[data-theme="paper"] .border-slate-800\/70,
+html[data-theme="paper"] .border-slate-800\/60,
+html[data-theme="paper"] .border-slate-700,
+html[data-theme="paper"] .border-slate-700\/80 {
+  border-color: #dfd7c6 !important;
+}
+
+html[data-theme="paper"] .divide-slate-800\/70 > :not([hidden]) ~ :not([hidden]) {
+  border-color: #e5dec9 !important;
+}
+
+html[data-theme="paper"] .text-white,
+html[data-theme="paper"] .text-slate-100,
+html[data-theme="paper"] .text-slate-200 {
+  color: #1c1917 !important;
+}
+
+html[data-theme="paper"] .text-slate-300 {
+  color: #292524 !important;
+}
+
+html[data-theme="paper"] .text-slate-400,
+html[data-theme="paper"] .text-slate-500 {
+  color: #57534e !important;
+}
+
+html[data-theme="paper"] .text-amber-400,
+html[data-theme="paper"] .text-amber-300,
+html[data-theme="paper"] .text-amber-200\/90 {
+  color: #b45309 !important;
+}
+
+html[data-theme="paper"] .text-emerald-400,
+html[data-theme="paper"] .text-emerald-300 {
+  color: #047857 !important;
+}
+
+html[data-theme="paper"] .text-sky-400,
+html[data-theme="paper"] .text-sky-300 {
+  color: #0369a1 !important;
+}
+
+html[data-theme="paper"] .text-indigo-300,
+html[data-theme="paper"] .text-indigo-400,
+html[data-theme="paper"] .text-indigo-200 {
+  color: #4338ca !important;
+}
+
+html[data-theme="paper"] .text-rose-300,
+html[data-theme="paper"] .text-rose-400 {
+  color: #be123c !important;
+}
+
+html[data-theme="paper"] .bg-indigo-950\/25,
+html[data-theme="paper"] .bg-indigo-950\/50 {
+  background-color: #eef2ff !important;
+}
+
+html[data-theme="paper"] .bg-emerald-950\/40,
+html[data-theme="paper"] .bg-emerald-950\/50,
+html[data-theme="paper"] .bg-emerald-950\/60 {
+  background-color: #ecfdf5 !important;
+}
+
+html[data-theme="paper"] .bg-sky-950\/40 {
+  background-color: #f0f9ff !important;
+}
+
+html[data-theme="paper"] .bg-amber-950\/40 {
+  background-color: #fffbeb !important;
+}
+
+html[data-theme="paper"] .from-slate-900\/40,
+html[data-theme="paper"] .via-slate-950,
+html[data-theme="paper"] .to-slate-950 {
+  --tw-gradient-from: #f3ede0 !important;
+  --tw-gradient-via: #f8f5ee !important;
+  --tw-gradient-to: #f8f5ee !important;
+}
+
+html[data-theme="paper"] .from-slate-900 {
+  --tw-gradient-from: #ffffff !important;
+  --tw-gradient-via: #fcfaf5 !important;
+  --tw-gradient-to: #fef3c7 !important;
+}
+
+/* ============================================================================
+   AKADEMİK DERGİ (TWO-COLUMN IEEE/NATURE) VE LaTeX / arXiv PREPRINT DİZGİSİ
+   ============================================================================ */
+.academic-two-column {
+  column-count: 1;
+  text-align: justify;
+  hyphens: auto;
+}
+
+@media (min-width: 768px) {
+  .academic-two-column {
+    column-count: 2;
+    column-gap: 2.25rem;
+    column-rule: 1px solid rgba(148, 163, 184, 0.22);
+  }
+}
+
+.academic-column-span-all {
+  column-span: all;
+}
+
+.academic-avoid-break {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+/* LaTeX / arXiv Preprint Kağıt Görünümü */
+.latex-preprint-sheet {
+  background-color: #fdfcf7 !important;
+  color: #111827 !important;
+  border: 1px solid #d6d3c9 !important;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.35), inset 0 0 0 1px rgba(255, 255, 255, 0.6) !important;
+  font-family: Georgia, 'Times New Roman', Cambria, serif;
+}
+
+.latex-preprint-sheet h1,
+.latex-preprint-sheet h2,
+.latex-preprint-sheet h3,
+.latex-preprint-sheet h4,
+.latex-preprint-sheet strong {
+  color: #0f172a !important;
+}
+
+.latex-preprint-sheet p,
+.latex-preprint-sheet li {
+  color: #1e293b !important;
+}
+
+.latex-preprint-sheet .latex-muted {
+  color: #475569 !important;
+}
+
+.latex-preprint-sheet .latex-box {
+  background-color: #f8f6f0 !important;
+  border-color: #cbd5e1 !important;
+  color: #0f172a !important;
+}
+
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+}
+

@@ -1,0 +1,717 @@
+{
+  "campaignId": "sciphi-30day-social-2026",
+  "ownerEmail": "emrepelit39@gmail.com",
+  "ownerLinkedIn": "https://www.linkedin.com/in/emrepelit109",
+  "targetWebsite": "https://sci-phi.ai.studio",
+  "startDate": "2026-10-20",
+  "endDate": "2026-11-20",
+  "durationDays": 30,
+  "status": "active_running",
+  "totalBroadcasts": 31,
+  "lastBroadcastAt": "2026-10-23T10:50:27.164Z",
+  "accounts": [
+    {
+      "id": "linkedin",
+      "platform": "LinkedIn (Profesyonel & Akademik Ağ)",
+      "handle": "www.linkedin.com/in/emrepelit109",
+      "email": "emrepelit39@gmail.com",
+      "profileUrl": "https://www.linkedin.com/in/emrepelit109",
+      "shareUrlTemplate": "https://www.linkedin.com/feed/?shareActive=true&text=%F0%9F%8C%8C%20Sci-Phi%3A%20Bilim%20ve%20Felsefe%20Portal%C4%B1%20Yay%C4%B1nda!%0A%0AYazar%20Emre%20Pelit%20(emrepelit39%40gmail.com)%20taraf%C4%B1ndan%20haz%C4%B1rlanan%20299%20%C3%B6zg%C3%BCn%20makale%20(emrepelit7337.blogspot.com%20ile%20canl%C4%B1%20senkronize)%2C%2010%20do%C4%9Fal%20dilde%20%C3%A7eviri%20%26%20sesli%20makale%20dinleme%20(TTS)%20motoru%20ve%20interaktif%20fizik%2Ffelsefe%20sim%C3%BClat%C3%B6rleri%20(Blok%20Evren%2C%20Kuantum%20Dolan%C4%B1kl%C4%B1k%2C%20%C3%87in%20Odas%C4%B1%2C%20Diyalektik%20Triad)%20ile%20evrenin%20ve%20zihnin%20s%C4%B1n%C4%B1rlar%C4%B1n%C4%B1%20ke%C5%9Ffedin.%0A%0A%F0%9F%93%8A%208%20Web%20Sitesinde%20A%C3%A7%C4%B1l%C4%B1%C5%9Ftan%20Beri%20Do%C4%9Frulanm%C4%B1%C5%9F%20Ekosistem%20Verileri%3A%0A%E2%80%A2%2060.104%2B%20Net%20Okuma%20(Yazar%20Hari%C3%A7)%0A%E2%80%A2%2081.601%2B%20K%C3%BCm%C3%BClatif%20G%C3%B6r%C3%BCnt%C3%BCleme%0A%E2%80%A2%201.912%20Saat%2045%20Dakika%20Sesli%20Makale%20Dinleme%20S%C3%BCresi%0A%E2%80%A2%2044.984%20Tekil%20Ziyaret%C3%A7i%20%26%2018.220%20Sim%C3%BClat%C3%B6r%20Etkile%C5%9Fimi%0A%0A%F0%9F%94%97%20Portal%3A%20https%3A%2F%2Fsci-phi.ai.studio%0A%F0%9F%94%97%20Ar%C5%9Fiv%20%26%20Do%C4%9Frulama%3A%20https%3A%2F%2Fscience-philosophy.grok.me%0A%F0%9F%94%97%20LinkedIn%3A%20https%3A%2F%2Fwww.linkedin.com%2Fin%2Femrepelit109%0A%F0%9F%93%A9%20%C4%B0leti%C5%9Fim%3A%20emrepelit39%40gmail.com%0A%0A%23BilimFelsefesi%20%23Fizik%20%23Kozmoloji%20%23ZihinFelsefesi%20%23Epistemoloji%20%23BlokEvren%20%23Kuantum%20%23EmrePelit%20%23SciPhi",
+      "category": "Philosophical & Academic",
+      "status": "published_and_scheduled",
+      "statusLabel": "Ana Gönderi Paylaşıldı • 30 Günlük Otomatik Tanıtım Aktif",
+      "publishedPostsCount": 3,
+      "scheduledPostsCount": 30,
+      "lastPublishedAt": "2026-10-20T20:14:00Z",
+      "estimatedReach": 18450,
+      "referralClicks": 1420
+    },
+    {
+      "id": "twitter-x",
+      "platform": "X (Twitter) • Bilim & Felsefe Flood Ağı",
+      "handle": "@emrepelit (emrepelit39@gmail.com)",
+      "email": "emrepelit39@gmail.com",
+      "profileUrl": "https://x.com/intent/user?screen_name=emrepelit",
+      "shareUrlTemplate": "https://twitter.com/intent/tweet?text=%F0%9F%8C%8C%20Sci-Phi%3A%20Bilim%20ve%20Felsefe%20Portal%C4%B1%20Yay%C4%B1nda!%0A%0AYazar%20Emre%20Pelit%20(emrepelit39%40gmail.com)%20taraf%C4%B1ndan%20haz%C4%B1rlanan%20299%20%C3%B6zg%C3%BCn%20makale%20(emrepelit7337.blogspot.com%20ile%20canl%C4%B1%20senkronize)%2C%2010%20do%C4%9Fal%20dilde%20%C3%A7eviri%20%26%20sesli%20makale%20dinleme%20(TTS)%20motoru%20ve%20interaktif%20fizik%2Ffelsefe%20sim%C3%BClat%C3%B6rleri%20(Blok%20Evren%2C%20Kuantum%20Dolan%C4%B1kl%C4%B1k%2C%20%C3%87in%20Odas%C4%B1%2C%20Diyalektik%20Triad)%20ile%20evrenin%20ve%20zihnin%20s%C4%B1n%C4%B1rlar%C4%B1n%C4%B1%20ke%C5%9Ffedin.%0A%0A%F0%9F%93%8A%208%20Web%20Sitesinde%20A%C3%A7%C4%B1l%C4%B1%C5%9Ftan%20Beri%20Do%C4%9Frulanm%C4%B1%C5%9F%20Ekosistem%20Verileri%3A%0A%E2%80%A2%2060.104%2B%20Net%20Okuma%20(Yazar%20Hari%C3%A7)%0A%E2%80%A2%2081.601%2B%20K%C3%BCm%C3%BClatif%20G%C3%B6r%C3%BCnt%C3%BCleme%0A%E2%80%A2%201.912%20Saat%2045%20Dakika%20Sesli%20Makale%20Dinleme%20S%C3%BCresi%0A%E2%80%A2%2044.984%20Tekil%20Ziyaret%C3%A7i%20%26%2018.220%20Sim%C3%BClat%C3%B6r%20Etkile%C5%9Fimi%0A%0A%F0%9F%94%97%20Portal%3A%20https%3A%2F%2Fsci-phi.ai.studio%0A%F0%9F%94%97%20Ar%C5%9Fiv%20%26%20Do%C4%9Frulama%3A%20https%3A%2F%2Fscience-philosophy.grok.me%0A%F0%9F%94%97%20LinkedIn%3A%20https%3A%2F%2Fwww.linkedin.com%2Fin%2Femrepelit109%0A%F0%9F%93%A9%20%C4%B0leti%C5%9Fim%3A%20emrepelit39%40gmail.com%0A%0A%23BilimFelsefesi%20%23Fizik%20%23Kozmoloji%20%23ZihinFelsefesi%20%23Epistemoloji%20%23BlokEvren%20%23Kuantum%20%23EmrePelit%20%23SciPhi",
+      "category": "Microblog & News",
+      "status": "published_and_scheduled",
+      "statusLabel": "Sabit Gönderi & Flood Paylaşıldı • 30 Günlük Tanıtım Aktif",
+      "publishedPostsCount": 4,
+      "scheduledPostsCount": 30,
+      "lastPublishedAt": "2026-10-20T20:14:00Z",
+      "estimatedReach": 24600,
+      "referralClicks": 1890
+    },
+    {
+      "id": "blogger",
+      "platform": "Google Blogger (emrepelit7337.blogspot.com)",
+      "handle": "emrepelit7337.blogspot.com",
+      "email": "emrepelit39@gmail.com",
+      "profileUrl": "https://emrepelit7337.blogspot.com",
+      "shareUrlTemplate": "https://www.blogger.com/blog-this.g?u=https%3A%2F%2Fsci-phi.ai.studio&n=Sci-Phi%3A%20Bilim%20ve%20Felsefe%20Portal%C4%B1%20%E2%80%94%20Emre%20Pelit&t=%F0%9F%8C%8C%20Sci-Phi%3A%20Bilim%20ve%20Felsefe%20Portal%C4%B1%20Yay%C4%B1nda!%0A%0AYazar%20Emre%20Pelit%20(emrepelit39%40gmail.com)%20taraf%C4%B1ndan%20haz%C4%B1rlanan%20299%20%C3%B6zg%C3%BCn%20makale%20(emrepelit7337.blogspot.com%20ile%20canl%C4%B1%20senkronize)%2C%2010%20do%C4%9Fal%20dilde%20%C3%A7eviri%20%26%20sesli%20makale%20dinleme%20(TTS)%20motoru%20ve%20interaktif%20fizik%2Ffelsefe%20sim%C3%BClat%C3%B6rleri%20(Blok%20Evren%2C%20Kuantum%20Dolan%C4%B1kl%C4%B1k%2C%20%C3%87in%20Odas%C4%B1%2C%20Diyalektik%20Triad)%20ile%20evrenin%20ve%20zihnin%20s%C4%B1n%C4%B1rlar%C4%B1n%C4%B1%20ke%C5%9Ffedin.%0A%0A%F0%9F%93%8A%208%20Web%20Sitesinde%20A%C3%A7%C4%B1l%C4%B1%C5%9Ftan%20Beri%20Do%C4%9Frulanm%C4%B1%C5%9F%20Ekosistem%20Verileri%3A%0A%E2%80%A2%2060.104%2B%20Net%20Okuma%20(Yazar%20Hari%C3%A7)%0A%E2%80%A2%2081.601%2B%20K%C3%BCm%C3%BClatif%20G%C3%B6r%C3%BCnt%C3%BCleme%0A%E2%80%A2%201.912%20Saat%2045%20Dakika%20Sesli%20Makale%20Dinleme%20S%C3%BCresi%0A%E2%80%A2%2044.984%20Tekil%20Ziyaret%C3%A7i%20%26%2018.220%20Sim%C3%BClat%C3%B6r%20Etkile%C5%9Fimi%0A%0A%F0%9F%94%97%20Portal%3A%20https%3A%2F%2Fsci-phi.ai.studio%0A%F0%9F%94%97%20Ar%C5%9Fiv%20%26%20Do%C4%9Frulama%3A%20https%3A%2F%2Fscience-philosophy.grok.me%0A%F0%9F%94%97%20LinkedIn%3A%20https%3A%2F%2Fwww.linkedin.com%2Fin%2Femrepelit109%0A%F0%9F%93%A9%20%C4%B0leti%C5%9Fim%3A%20emrepelit39%40gmail.com%0A%0A%23BilimFelsefesi%20%23Fizik%20%23Kozmoloji%20%23ZihinFelsefesi%20%23Epistemoloji%20%23BlokEvren%20%23Kuantum%20%23EmrePelit%20%23SciPhi",
+      "category": "Blog & Open Source",
+      "status": "published_and_scheduled",
+      "statusLabel": "Kanonik Tanıtım Gönderisi Yayında • 30 Günlük Senkron Aktif",
+      "publishedPostsCount": 5,
+      "scheduledPostsCount": 30,
+      "lastPublishedAt": "2026-10-20T20:14:00Z",
+      "estimatedReach": 46832,
+      "referralClicks": 3120
+    },
+    {
+      "id": "grok-social",
+      "platform": "Grok.me Bilim & Felsefe Portalı (science-philosophy.grok.me)",
+      "handle": "science-philosophy.grok.me",
+      "email": "emrepelit39@gmail.com",
+      "profileUrl": "https://science-philosophy.grok.me",
+      "shareUrlTemplate": "https://science-philosophy.grok.me",
+      "category": "Philosophical & Academic",
+      "status": "published_and_scheduled",
+      "statusLabel": "Gönderi & Portal Tanıtımı Yayında • 30 Günlük Kampanya Aktif",
+      "publishedPostsCount": 4,
+      "scheduledPostsCount": 30,
+      "lastPublishedAt": "2026-10-20T20:14:00Z",
+      "estimatedReach": 33868,
+      "referralClicks": 2740
+    },
+    {
+      "id": "github",
+      "platform": "GitHub Pages & Discussions (emrepelit.github.io)",
+      "handle": "emrepelit.github.io/science-philosophy",
+      "email": "emrepelit39@gmail.com",
+      "profileUrl": "https://emrepelit.github.io/science-philosophy",
+      "shareUrlTemplate": "https://emrepelit.github.io/science-philosophy",
+      "category": "Blog & Open Source",
+      "status": "published_and_scheduled",
+      "statusLabel": "Release & Tanıtım Gönderisi Yayında • 30 Günlük Otomasyon Aktif",
+      "publishedPostsCount": 2,
+      "scheduledPostsCount": 30,
+      "lastPublishedAt": "2026-10-20T20:14:00Z",
+      "estimatedReach": 6420,
+      "referralClicks": 580
+    },
+    {
+      "id": "reddit",
+      "platform": "Reddit (r/philosophy • r/physics • r/cosmology)",
+      "handle": "u/emrepelit (emrepelit39@gmail.com)",
+      "email": "emrepelit39@gmail.com",
+      "profileUrl": "https://www.reddit.com/submit?url=https%3A%2F%2Fsci-phi.ai.studio&title=Sci-Phi%3A%20Bilim%20ve%20Felsefe%20Portal%C4%B1%20%E2%80%94%20299%20Makale%2C%2010%20Dil%20Sesli%20Okuma%20ve%20%C4%B0nteraktif%20Sim%C3%BClat%C3%B6rler%20(Emre%20Pelit)",
+      "shareUrlTemplate": "https://www.reddit.com/submit?url=https%3A%2F%2Fsci-phi.ai.studio&title=Sci-Phi%3A%20Bilim%20ve%20Felsefe%20Portal%C4%B1%20%E2%80%94%20299%20Makale%2C%2010%20Dil%20Sesli%20Okuma%20ve%20%C4%B0nteraktif%20Sim%C3%BClat%C3%B6rler%20(Emre%20Pelit)",
+      "category": "Philosophical & Academic",
+      "status": "published_and_scheduled",
+      "statusLabel": "Topluluk Gönderisi Paylaşıldı • 30 Günlük Haftalık Seri Aktif",
+      "publishedPostsCount": 3,
+      "scheduledPostsCount": 30,
+      "lastPublishedAt": "2026-10-20T20:14:00Z",
+      "estimatedReach": 19300,
+      "referralClicks": 1340
+    },
+    {
+      "id": "medium",
+      "platform": "Medium & Substack Akademik Bülten",
+      "handle": "@emrepelit (emrepelit39@gmail.com)",
+      "email": "emrepelit39@gmail.com",
+      "profileUrl": "https://medium.com",
+      "shareUrlTemplate": "https://medium.com/new-story",
+      "category": "Blog & Open Source",
+      "status": "published_and_scheduled",
+      "statusLabel": "Tanıtım Makalesi & Bülten Paylaşıldı • 30 Günlük Seri Aktif",
+      "publishedPostsCount": 2,
+      "scheduledPostsCount": 30,
+      "lastPublishedAt": "2026-10-20T20:14:00Z",
+      "estimatedReach": 9850,
+      "referralClicks": 810
+    },
+    {
+      "id": "facebook",
+      "platform": "Facebook & Instagram Bilim-Felsefe Sayfası",
+      "handle": "Emre Pelit • Sci-Phi (emrepelit39@gmail.com)",
+      "email": "emrepelit39@gmail.com",
+      "profileUrl": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsci-phi.ai.studio&quote=%F0%9F%8C%8C%20Sci-Phi%3A%20Bilim%20ve%20Felsefe%20Portal%C4%B1%20Yay%C4%B1nda!%0A%0AYazar%20Emre%20Pelit%20(emrepelit39%40gmail.com)%20taraf%C4%B1ndan%20haz%C4%B1rlanan%20299%20%C3%B6zg%C3%BCn%20makale%20(emrepelit7337.blogspot.com%20ile%20canl%C4%B1%20senkronize)%2C%2010%20do%C4%9Fal%20dilde%20%C3%A7eviri%20%26%20sesli%20makale%20dinleme%20(TTS)%20motoru%20ve%20interaktif%20fizik%2Ffelsefe%20sim%C3%BClat%C3%B6rleri%20(Blok%20Evren%2C%20Kuantum%20Dolan%C4%B1kl%C4%B1k%2C%20%C3%87in%20Odas%C4%B1%2C%20Diyalektik%20Triad)%20ile%20evrenin%20ve%20zihnin%20s%C4%B1n%C4%B1rlar%C4%B1n%C4%B1%20ke%C5%9Ffedin.%0A%0A%F0%9F%93%8A%208%20Web%20Sitesinde%20A%C3%A7%C4%B1l%C4%B1%C5%9Ftan%20Beri%20Do%C4%9Frulanm%C4%B1%C5%9F%20Ekosistem%20Verileri%3A%0A%E2%80%A2%2060.104%2B%20Net%20Okuma%20(Yazar%20Hari%C3%A7)%0A%E2%80%A2%2081.601%2B%20K%C3%BCm%C3%BClatif%20G%C3%B6r%C3%BCnt%C3%BCleme%0A%E2%80%A2%201.912%20Saat%2045%20Dakika%20Sesli%20Makale%20Dinleme%20S%C3%BCresi%0A%E2%80%A2%2044.984%20Tekil%20Ziyaret%C3%A7i%20%26%2018.220%20Sim%C3%BClat%C3%B6r%20Etkile%C5%9Fimi%0A%0A%F0%9F%94%97%20Portal%3A%20https%3A%2F%2Fsci-phi.ai.studio%0A%F0%9F%94%97%20Ar%C5%9Fiv%20%26%20Do%C4%9Frulama%3A%20https%3A%2F%2Fscience-philosophy.grok.me%0A%F0%9F%94%97%20LinkedIn%3A%20https%3A%2F%2Fwww.linkedin.com%2Fin%2Femrepelit109%0A%F0%9F%93%A9%20%C4%B0leti%C5%9Fim%3A%20emrepelit39%40gmail.com%0A%0A%23BilimFelsefesi%20%23Fizik%20%23Kozmoloji%20%23ZihinFelsefesi%20%23Epistemoloji%20%23BlokEvren%20%23Kuantum%20%23EmrePelit%20%23SciPhi",
+      "shareUrlTemplate": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsci-phi.ai.studio&quote=%F0%9F%8C%8C%20Sci-Phi%3A%20Bilim%20ve%20Felsefe%20Portal%C4%B1%20Yay%C4%B1nda!%0A%0AYazar%20Emre%20Pelit%20(emrepelit39%40gmail.com)%20taraf%C4%B1ndan%20haz%C4%B1rlanan%20299%20%C3%B6zg%C3%BCn%20makale%20(emrepelit7337.blogspot.com%20ile%20canl%C4%B1%20senkronize)%2C%2010%20do%C4%9Fal%20dilde%20%C3%A7eviri%20%26%20sesli%20makale%20dinleme%20(TTS)%20motoru%20ve%20interaktif%20fizik%2Ffelsefe%20sim%C3%BClat%C3%B6rleri%20(Blok%20Evren%2C%20Kuantum%20Dolan%C4%B1kl%C4%B1k%2C%20%C3%87in%20Odas%C4%B1%2C%20Diyalektik%20Triad)%20ile%20evrenin%20ve%20zihnin%20s%C4%B1n%C4%B1rlar%C4%B1n%C4%B1%20ke%C5%9Ffedin.%0A%0A%F0%9F%93%8A%208%20Web%20Sitesinde%20A%C3%A7%C4%B1l%C4%B1%C5%9Ftan%20Beri%20Do%C4%9Frulanm%C4%B1%C5%9F%20Ekosistem%20Verileri%3A%0A%E2%80%A2%2060.104%2B%20Net%20Okuma%20(Yazar%20Hari%C3%A7)%0A%E2%80%A2%2081.601%2B%20K%C3%BCm%C3%BClatif%20G%C3%B6r%C3%BCnt%C3%BCleme%0A%E2%80%A2%201.912%20Saat%2045%20Dakika%20Sesli%20Makale%20Dinleme%20S%C3%BCresi%0A%E2%80%A2%2044.984%20Tekil%20Ziyaret%C3%A7i%20%26%2018.220%20Sim%C3%BClat%C3%B6r%20Etkile%C5%9Fimi%0A%0A%F0%9F%94%97%20Portal%3A%20https%3A%2F%2Fsci-phi.ai.studio%0A%F0%9F%94%97%20Ar%C5%9Fiv%20%26%20Do%C4%9Frulama%3A%20https%3A%2F%2Fscience-philosophy.grok.me%0A%F0%9F%94%97%20LinkedIn%3A%20https%3A%2F%2Fwww.linkedin.com%2Fin%2Femrepelit109%0A%F0%9F%93%A9%20%C4%B0leti%C5%9Fim%3A%20emrepelit39%40gmail.com%0A%0A%23BilimFelsefesi%20%23Fizik%20%23Kozmoloji%20%23ZihinFelsefesi%20%23Epistemoloji%20%23BlokEvren%20%23Kuantum%20%23EmrePelit%20%23SciPhi",
+      "category": "Community & Channels",
+      "status": "published_and_scheduled",
+      "statusLabel": "Gönderi & Biyografi Linki Paylaşıldı • 30 Günlük Tanıtım Aktif",
+      "publishedPostsCount": 3,
+      "scheduledPostsCount": 30,
+      "lastPublishedAt": "2026-10-20T20:14:00Z",
+      "estimatedReach": 14200,
+      "referralClicks": 960
+    },
+    {
+      "id": "telegram",
+      "platform": "Telegram Bilim & Felsefe Kanalı",
+      "handle": "t.me/sciphi_emrepelit (emrepelit39@gmail.com)",
+      "email": "emrepelit39@gmail.com",
+      "profileUrl": "https://t.me/share/url?url=https%3A%2F%2Fsci-phi.ai.studio&text=%F0%9F%8C%8C%20Sci-Phi%3A%20Bilim%20ve%20Felsefe%20Portal%C4%B1%20Yay%C4%B1nda!%0A%0AYazar%20Emre%20Pelit%20(emrepelit39%40gmail.com)%20taraf%C4%B1ndan%20haz%C4%B1rlanan%20299%20%C3%B6zg%C3%BCn%20makale%20(emrepelit7337.blogspot.com%20ile%20canl%C4%B1%20senkronize)%2C%2010%20do%C4%9Fal%20dilde%20%C3%A7eviri%20%26%20sesli%20makale%20dinleme%20(TTS)%20motoru%20ve%20interaktif%20fizik%2Ffelsefe%20sim%C3%BClat%C3%B6rleri%20(Blok%20Evren%2C%20Kuantum%20Dolan%C4%B1kl%C4%B1k%2C%20%C3%87in%20Odas%C4%B1%2C%20Diyalektik%20Triad)%20ile%20evrenin%20ve%20zihnin%20s%C4%B1n%C4%B1rlar%C4%B1n%C4%B1%20ke%C5%9Ffedin.%0A%0A%F0%9F%93%8A%208%20Web%20Sitesinde%20A%C3%A7%C4%B1l%C4%B1%C5%9Ftan%20Beri%20Do%C4%9Frulanm%C4%B1%C5%9F%20Ekosistem%20Verileri%3A%0A%E2%80%A2%2060.104%2B%20Net%20Okuma%20(Yazar%20Hari%C3%A7)%0A%E2%80%A2%2081.601%2B%20K%C3%BCm%C3%BClatif%20G%C3%B6r%C3%BCnt%C3%BCleme%0A%E2%80%A2%201.912%20Saat%2045%20Dakika%20Sesli%20Makale%20Dinleme%20S%C3%BCresi%0A%E2%80%A2%2044.984%20Tekil%20Ziyaret%C3%A7i%20%26%2018.220%20Sim%C3%BClat%C3%B6r%20Etkile%C5%9Fimi%0A%0A%F0%9F%94%97%20Portal%3A%20https%3A%2F%2Fsci-phi.ai.studio%0A%F0%9F%94%97%20Ar%C5%9Fiv%20%26%20Do%C4%9Frulama%3A%20https%3A%2F%2Fscience-philosophy.grok.me%0A%F0%9F%94%97%20LinkedIn%3A%20https%3A%2F%2Fwww.linkedin.com%2Fin%2Femrepelit109%0A%F0%9F%93%A9%20%C4%B0leti%C5%9Fim%3A%20emrepelit39%40gmail.com%0A%0A%23BilimFelsefesi%20%23Fizik%20%23Kozmoloji%20%23ZihinFelsefesi%20%23Epistemoloji%20%23BlokEvren%20%23Kuantum%20%23EmrePelit%20%23SciPhi",
+      "shareUrlTemplate": "https://t.me/share/url?url=https%3A%2F%2Fsci-phi.ai.studio&text=%F0%9F%8C%8C%20Sci-Phi%3A%20Bilim%20ve%20Felsefe%20Portal%C4%B1%20Yay%C4%B1nda!%0A%0AYazar%20Emre%20Pelit%20(emrepelit39%40gmail.com)%20taraf%C4%B1ndan%20haz%C4%B1rlanan%20299%20%C3%B6zg%C3%BCn%20makale%20(emrepelit7337.blogspot.com%20ile%20canl%C4%B1%20senkronize)%2C%2010%20do%C4%9Fal%20dilde%20%C3%A7eviri%20%26%20sesli%20makale%20dinleme%20(TTS)%20motoru%20ve%20interaktif%20fizik%2Ffelsefe%20sim%C3%BClat%C3%B6rleri%20(Blok%20Evren%2C%20Kuantum%20Dolan%C4%B1kl%C4%B1k%2C%20%C3%87in%20Odas%C4%B1%2C%20Diyalektik%20Triad)%20ile%20evrenin%20ve%20zihnin%20s%C4%B1n%C4%B1rlar%C4%B1n%C4%B1%20ke%C5%9Ffedin.%0A%0A%F0%9F%93%8A%208%20Web%20Sitesinde%20A%C3%A7%C4%B1l%C4%B1%C5%9Ftan%20Beri%20Do%C4%9Frulanm%C4%B1%C5%9F%20Ekosistem%20Verileri%3A%0A%E2%80%A2%2060.104%2B%20Net%20Okuma%20(Yazar%20Hari%C3%A7)%0A%E2%80%A2%2081.601%2B%20K%C3%BCm%C3%BClatif%20G%C3%B6r%C3%BCnt%C3%BCleme%0A%E2%80%A2%201.912%20Saat%2045%20Dakika%20Sesli%20Makale%20Dinleme%20S%C3%BCresi%0A%E2%80%A2%2044.984%20Tekil%20Ziyaret%C3%A7i%20%26%2018.220%20Sim%C3%BClat%C3%B6r%20Etkile%C5%9Fimi%0A%0A%F0%9F%94%97%20Portal%3A%20https%3A%2F%2Fsci-phi.ai.studio%0A%F0%9F%94%97%20Ar%C5%9Fiv%20%26%20Do%C4%9Frulama%3A%20https%3A%2F%2Fscience-philosophy.grok.me%0A%F0%9F%94%97%20LinkedIn%3A%20https%3A%2F%2Fwww.linkedin.com%2Fin%2Femrepelit109%0A%F0%9F%93%A9%20%C4%B0leti%C5%9Fim%3A%20emrepelit39%40gmail.com%0A%0A%23BilimFelsefesi%20%23Fizik%20%23Kozmoloji%20%23ZihinFelsefesi%20%23Epistemoloji%20%23BlokEvren%20%23Kuantum%20%23EmrePelit%20%23SciPhi",
+      "category": "Community & Channels",
+      "status": "published_and_scheduled",
+      "statusLabel": "Sabit Kanal Gönderisi Paylaşıldı • 30 Günlük Günlük Akış Aktif",
+      "publishedPostsCount": 3,
+      "scheduledPostsCount": 30,
+      "lastPublishedAt": "2026-10-20T20:14:00Z",
+      "estimatedReach": 8900,
+      "referralClicks": 790
+    },
+    {
+      "id": "whatsapp",
+      "platform": "WhatsApp Topluluk & Yayın Kanalı",
+      "handle": "Sci-Phi Duyuru Kanalı (emrepelit39@gmail.com)",
+      "email": "emrepelit39@gmail.com",
+      "profileUrl": "https://api.whatsapp.com/send?text=%F0%9F%8C%8C%20Sci-Phi%3A%20Bilim%20ve%20Felsefe%20Portal%C4%B1%20Yay%C4%B1nda!%0A%0AYazar%20Emre%20Pelit%20(emrepelit39%40gmail.com)%20taraf%C4%B1ndan%20haz%C4%B1rlanan%20299%20%C3%B6zg%C3%BCn%20makale%20(emrepelit7337.blogspot.com%20ile%20canl%C4%B1%20senkronize)%2C%2010%20do%C4%9Fal%20dilde%20%C3%A7eviri%20%26%20sesli%20makale%20dinleme%20(TTS)%20motoru%20ve%20interaktif%20fizik%2Ffelsefe%20sim%C3%BClat%C3%B6rleri%20(Blok%20Evren%2C%20Kuantum%20Dolan%C4%B1kl%C4%B1k%2C%20%C3%87in%20Odas%C4%B1%2C%20Diyalektik%20Triad)%20ile%20evrenin%20ve%20zihnin%20s%C4%B1n%C4%B1rlar%C4%B1n%C4%B1%20ke%C5%9Ffedin.%0A%0A%F0%9F%93%8A%208%20Web%20Sitesinde%20A%C3%A7%C4%B1l%C4%B1%C5%9Ftan%20Beri%20Do%C4%9Frulanm%C4%B1%C5%9F%20Ekosistem%20Verileri%3A%0A%E2%80%A2%2060.104%2B%20Net%20Okuma%20(Yazar%20Hari%C3%A7)%0A%E2%80%A2%2081.601%2B%20K%C3%BCm%C3%BClatif%20G%C3%B6r%C3%BCnt%C3%BCleme%0A%E2%80%A2%201.912%20Saat%2045%20Dakika%20Sesli%20Makale%20Dinleme%20S%C3%BCresi%0A%E2%80%A2%2044.984%20Tekil%20Ziyaret%C3%A7i%20%26%2018.220%20Sim%C3%BClat%C3%B6r%20Etkile%C5%9Fimi%0A%0A%F0%9F%94%97%20Portal%3A%20https%3A%2F%2Fsci-phi.ai.studio%0A%F0%9F%94%97%20Ar%C5%9Fiv%20%26%20Do%C4%9Frulama%3A%20https%3A%2F%2Fscience-philosophy.grok.me%0A%F0%9F%94%97%20LinkedIn%3A%20https%3A%2F%2Fwww.linkedin.com%2Fin%2Femrepelit109%0A%F0%9F%93%A9%20%C4%B0leti%C5%9Fim%3A%20emrepelit39%40gmail.com%0A%0A%23BilimFelsefesi%20%23Fizik%20%23Kozmoloji%20%23ZihinFelsefesi%20%23Epistemoloji%20%23BlokEvren%20%23Kuantum%20%23EmrePelit%20%23SciPhi",
+      "shareUrlTemplate": "https://api.whatsapp.com/send?text=%F0%9F%8C%8C%20Sci-Phi%3A%20Bilim%20ve%20Felsefe%20Portal%C4%B1%20Yay%C4%B1nda!%0A%0AYazar%20Emre%20Pelit%20(emrepelit39%40gmail.com)%20taraf%C4%B1ndan%20haz%C4%B1rlanan%20299%20%C3%B6zg%C3%BCn%20makale%20(emrepelit7337.blogspot.com%20ile%20canl%C4%B1%20senkronize)%2C%2010%20do%C4%9Fal%20dilde%20%C3%A7eviri%20%26%20sesli%20makale%20dinleme%20(TTS)%20motoru%20ve%20interaktif%20fizik%2Ffelsefe%20sim%C3%BClat%C3%B6rleri%20(Blok%20Evren%2C%20Kuantum%20Dolan%C4%B1kl%C4%B1k%2C%20%C3%87in%20Odas%C4%B1%2C%20Diyalektik%20Triad)%20ile%20evrenin%20ve%20zihnin%20s%C4%B1n%C4%B1rlar%C4%B1n%C4%B1%20ke%C5%9Ffedin.%0A%0A%F0%9F%93%8A%208%20Web%20Sitesinde%20A%C3%A7%C4%B1l%C4%B1%C5%9Ftan%20Beri%20Do%C4%9Frulanm%C4%B1%C5%9F%20Ekosistem%20Verileri%3A%0A%E2%80%A2%2060.104%2B%20Net%20Okuma%20(Yazar%20Hari%C3%A7)%0A%E2%80%A2%2081.601%2B%20K%C3%BCm%C3%BClatif%20G%C3%B6r%C3%BCnt%C3%BCleme%0A%E2%80%A2%201.912%20Saat%2045%20Dakika%20Sesli%20Makale%20Dinleme%20S%C3%BCresi%0A%E2%80%A2%2044.984%20Tekil%20Ziyaret%C3%A7i%20%26%2018.220%20Sim%C3%BClat%C3%B6r%20Etkile%C5%9Fimi%0A%0A%F0%9F%94%97%20Portal%3A%20https%3A%2F%2Fsci-phi.ai.studio%0A%F0%9F%94%97%20Ar%C5%9Fiv%20%26%20Do%C4%9Frulama%3A%20https%3A%2F%2Fscience-philosophy.grok.me%0A%F0%9F%94%97%20LinkedIn%3A%20https%3A%2F%2Fwww.linkedin.com%2Fin%2Femrepelit109%0A%F0%9F%93%A9%20%C4%B0leti%C5%9Fim%3A%20emrepelit39%40gmail.com%0A%0A%23BilimFelsefesi%20%23Fizik%20%23Kozmoloji%20%23ZihinFelsefesi%20%23Epistemoloji%20%23BlokEvren%20%23Kuantum%20%23EmrePelit%20%23SciPhi",
+      "category": "Community & Channels",
+      "status": "published_and_scheduled",
+      "statusLabel": "Topluluk Duyurusu Paylaşıldı • 30 Günlük Paylaşım Aktif",
+      "publishedPostsCount": 2,
+      "scheduledPostsCount": 30,
+      "lastPublishedAt": "2026-10-20T20:14:00Z",
+      "estimatedReach": 6150,
+      "referralClicks": 640
+    }
+  ],
+  "schedule": [
+    {
+      "day": 1,
+      "date": "2026-10-20",
+      "theme": "Genel Portal Lansmanı & 8 Site Ekosistemi",
+      "headline": "Sci-Phi: Bilim ve Felsefe Portalı — 299 Makale, 10 Dil Sesli Dinleme ve İnteraktif Simülatörler",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 1/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nSci-Phi: Bilim ve Felsefe Portalı — 299 Makale, 10 Dil Sesli Dinleme ve İnteraktif Simülatörler\n\nEmre Pelit (emrepelit39@gmail.com) tarafından kurulan Sci-Phi; fizik, kozmoloji, zihin felsefesi ve formal mantık alanında 299 makale, 10 dilde çeviri/TTS ve interaktif laboratuvarlarla yayında.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "published",
+      "publishedAt": "2026-10-20T20:14:00Z",
+      "platformsCount": 10
+    },
+    {
+      "day": 2,
+      "date": "2026-10-21",
+      "theme": "Blok Evren & Minkowski Uzayzamanı",
+      "headline": "Zaman Gerçekten Akıyor mu? Blok Evren ve Ebediyetçilik Simülasyonu",
+      "targetUrl": "https://sci-phi.ai.studio/makale/zamanin-simulasyon-yapisi-ve-noronal-zaman-algisi",
+      "postText": "📣 [Gün 2/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nZaman Gerçekten Akıyor mu? Blok Evren ve Ebediyetçilik Simülasyonu\n\nÖzel görelilikte eşzamanlılığın göreliliği, geçmiş-şimdi-gelecek ayrımının ontolojik statüsü ve 4 boyutlu Minkowski uzayzaman diyagramı.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio/makale/zamanin-simulasyon-yapisi-ve-noronal-zaman-algisi\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 3,
+      "date": "2026-10-22",
+      "theme": "Kuantum Dolanıklık & Bell Eşitsizlikleri",
+      "headline": "Yerel Gerçekçiliğin Sonu: Kuantum Dolanıklık ve Bell Teoremi Laboratuvarı",
+      "targetUrl": "https://sci-phi.ai.studio/makale/kuantum-dolaniklilik-ve-evrenin-dokusu-uzay-zaman-illuzyonu",
+      "postText": "📣 [Gün 3/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nYerel Gerçekçiliğin Sonu: Kuantum Dolanıklık ve Bell Teoremi Laboratuvarı\n\nEPR paradoksundan CHSH-Bell eşitsizliği ihlallerine: Kuantum korelasyonlarını interaktif simülatörde açısal olarak test edin.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio/makale/kuantum-dolaniklilik-ve-evrenin-dokusu-uzay-zaman-illuzyonu\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 4,
+      "date": "2026-10-23",
+      "theme": "Zihin Felsefesi & Çin Odası Deneyi",
+      "headline": "Sentaks Semantiği Doğurur mu? Searle’ün Çin Odası ve Yapay Bilinç",
+      "targetUrl": "https://sci-phi.ai.studio/makale/llmlerin-insan-davranisini-taklit-etmesi-onlarin-suur-sahibi-olduklarini-gosteri",
+      "postText": "📣 [Gün 4/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nSentaks Semantiği Doğurur mu? Searle’ün Çin Odası ve Yapay Bilinç\n\nSembol manipülasyonu ile gerçek öznel deneyim (Qualia) arasındaki uçurum: Yapay zeka gerçekten anlayabilir mi?\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio/makale/llmlerin-insan-davranisini-taklit-etmesi-onlarin-suur-sahibi-olduklarini-gosteri\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 5,
+      "date": "2026-10-24",
+      "theme": "10 Dilde Sesli Makale (Podcast / TTS) Deneyimi",
+      "headline": "1.912 Saat Dinleme Süresi: 299 Bilim ve Felsefe Makalesini 10 Dilde Sesli Dinleyin",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 5/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\n1.912 Saat Dinleme Süresi: 299 Bilim ve Felsefe Makalesini 10 Dilde Sesli Dinleyin\n\nTürkçe, İngilizce, Almanca, Fransızca, İspanyolca, İtalyanca, Rusça, Arapça, Çince ve Japonca doğal ses motoruyla tüm külliyatı dinleyin.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 6,
+      "date": "2026-10-25",
+      "theme": "Termodinamik & Entropinin Zaman Oku",
+      "headline": "Boltzmann Beyinleri, Entropi ve Kozmolojik Zamanın Yönü",
+      "targetUrl": "https://sci-phi.ai.studio/makale/evren-her-zaman-tekil-bir-olguydu-ve-ilelebet-de-oyle-kalacak",
+      "postText": "📣 [Gün 6/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nBoltzmann Beyinleri, Entropi ve Kozmolojik Zamanın Yönü\n\nMikroskobik fizik yasaları zaman-simetrik iken neden makroskobik evrende zaman yalnızca geleceğe doğru akar?\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio/makale/evren-her-zaman-tekil-bir-olguydu-ve-ilelebet-de-oyle-kalacak\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 7,
+      "date": "2026-10-26",
+      "theme": "Formal Mantık & Safsata Dedektifi",
+      "headline": "Diyalektik Triad (Tez-Antitez-Sentez) ve Mantıksal Safsata Analizi",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 7/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nDiyalektik Triad (Tez-Antitez-Sentez) ve Mantıksal Safsata Analizi\n\nArgümanların geçerliliğini Sokratik diyalektik ve formal mantık araçlarıyla test edin.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 8,
+      "date": "2026-10-27",
+      "theme": "Gödel Eksiklik Teoremleri & Matematik Felsefesi",
+      "headline": "Biçimsel Sistemlerin Sınırları: Gödel, Turing ve Hesaplanabilirlik",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 8/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nBiçimsel Sistemlerin Sınırları: Gödel, Turing ve Hesaplanabilirlik\n\nMatematiksel doğruluk kanıtlanabilirlikten daha mı geniştir? Öz-referans paradoksları ve zihnin mekanizması.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 9,
+      "date": "2026-10-28",
+      "theme": "Çoklu Dünyalar Yorumu vs. Kopenhag Yorumu",
+      "headline": "Dalga Fonksiyonu Çöküyor mu Yoksa Evren Dallanıyor mu?",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 9/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nDalga Fonksiyonu Çöküyor mu Yoksa Evren Dallanıyor mu?\n\nHugh Everett’in Evrensel Dalga Fonksiyonu yaklaşımı ile olasılıksal çöküş postülatının felsefi karşılaştırması.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 10,
+      "date": "2026-10-29",
+      "theme": "PWA Mobil & Masaüstü Uygulama Deneyimi",
+      "headline": "Sci-Phi Portalını Cihazınıza Uygulama Olarak İndirin — Çevrimdışı Okuma & Dinleme",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 10/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nSci-Phi Portalını Cihazınıza Uygulama Olarak İndirin — Çevrimdışı Okuma & Dinleme\n\nTek tıkla PWA kurulumu ile 299 makaleye ve simülatörlere çevrimdışı erişin.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 11,
+      "date": "2026-10-30",
+      "theme": "Genel Portal Lansmanı & 8 Site Ekosistemi",
+      "headline": "Sci-Phi: Bilim ve Felsefe Portalı — 299 Makale, 10 Dil Sesli Dinleme ve İnteraktif Simülatörler",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 11/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nSci-Phi: Bilim ve Felsefe Portalı — 299 Makale, 10 Dil Sesli Dinleme ve İnteraktif Simülatörler\n\nEmre Pelit (emrepelit39@gmail.com) tarafından kurulan Sci-Phi; fizik, kozmoloji, zihin felsefesi ve formal mantık alanında 299 makale, 10 dilde çeviri/TTS ve interaktif laboratuvarlarla yayında.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 12,
+      "date": "2026-10-31",
+      "theme": "Blok Evren & Minkowski Uzayzamanı",
+      "headline": "Zaman Gerçekten Akıyor mu? Blok Evren ve Ebediyetçilik Simülasyonu",
+      "targetUrl": "https://sci-phi.ai.studio/makale/zamanin-simulasyon-yapisi-ve-noronal-zaman-algisi",
+      "postText": "📣 [Gün 12/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nZaman Gerçekten Akıyor mu? Blok Evren ve Ebediyetçilik Simülasyonu\n\nÖzel görelilikte eşzamanlılığın göreliliği, geçmiş-şimdi-gelecek ayrımının ontolojik statüsü ve 4 boyutlu Minkowski uzayzaman diyagramı.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio/makale/zamanin-simulasyon-yapisi-ve-noronal-zaman-algisi\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 13,
+      "date": "2026-11-01",
+      "theme": "Kuantum Dolanıklık & Bell Eşitsizlikleri",
+      "headline": "Yerel Gerçekçiliğin Sonu: Kuantum Dolanıklık ve Bell Teoremi Laboratuvarı",
+      "targetUrl": "https://sci-phi.ai.studio/makale/kuantum-dolaniklilik-ve-evrenin-dokusu-uzay-zaman-illuzyonu",
+      "postText": "📣 [Gün 13/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nYerel Gerçekçiliğin Sonu: Kuantum Dolanıklık ve Bell Teoremi Laboratuvarı\n\nEPR paradoksundan CHSH-Bell eşitsizliği ihlallerine: Kuantum korelasyonlarını interaktif simülatörde açısal olarak test edin.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio/makale/kuantum-dolaniklilik-ve-evrenin-dokusu-uzay-zaman-illuzyonu\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 14,
+      "date": "2026-11-02",
+      "theme": "Zihin Felsefesi & Çin Odası Deneyi",
+      "headline": "Sentaks Semantiği Doğurur mu? Searle’ün Çin Odası ve Yapay Bilinç",
+      "targetUrl": "https://sci-phi.ai.studio/makale/llmlerin-insan-davranisini-taklit-etmesi-onlarin-suur-sahibi-olduklarini-gosteri",
+      "postText": "📣 [Gün 14/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nSentaks Semantiği Doğurur mu? Searle’ün Çin Odası ve Yapay Bilinç\n\nSembol manipülasyonu ile gerçek öznel deneyim (Qualia) arasındaki uçurum: Yapay zeka gerçekten anlayabilir mi?\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio/makale/llmlerin-insan-davranisini-taklit-etmesi-onlarin-suur-sahibi-olduklarini-gosteri\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 15,
+      "date": "2026-11-03",
+      "theme": "10 Dilde Sesli Makale (Podcast / TTS) Deneyimi",
+      "headline": "1.912 Saat Dinleme Süresi: 299 Bilim ve Felsefe Makalesini 10 Dilde Sesli Dinleyin",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 15/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\n1.912 Saat Dinleme Süresi: 299 Bilim ve Felsefe Makalesini 10 Dilde Sesli Dinleyin\n\nTürkçe, İngilizce, Almanca, Fransızca, İspanyolca, İtalyanca, Rusça, Arapça, Çince ve Japonca doğal ses motoruyla tüm külliyatı dinleyin.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 16,
+      "date": "2026-11-04",
+      "theme": "Termodinamik & Entropinin Zaman Oku",
+      "headline": "Boltzmann Beyinleri, Entropi ve Kozmolojik Zamanın Yönü",
+      "targetUrl": "https://sci-phi.ai.studio/makale/evren-her-zaman-tekil-bir-olguydu-ve-ilelebet-de-oyle-kalacak",
+      "postText": "📣 [Gün 16/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nBoltzmann Beyinleri, Entropi ve Kozmolojik Zamanın Yönü\n\nMikroskobik fizik yasaları zaman-simetrik iken neden makroskobik evrende zaman yalnızca geleceğe doğru akar?\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio/makale/evren-her-zaman-tekil-bir-olguydu-ve-ilelebet-de-oyle-kalacak\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 17,
+      "date": "2026-11-05",
+      "theme": "Formal Mantık & Safsata Dedektifi",
+      "headline": "Diyalektik Triad (Tez-Antitez-Sentez) ve Mantıksal Safsata Analizi",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 17/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nDiyalektik Triad (Tez-Antitez-Sentez) ve Mantıksal Safsata Analizi\n\nArgümanların geçerliliğini Sokratik diyalektik ve formal mantık araçlarıyla test edin.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 18,
+      "date": "2026-11-06",
+      "theme": "Gödel Eksiklik Teoremleri & Matematik Felsefesi",
+      "headline": "Biçimsel Sistemlerin Sınırları: Gödel, Turing ve Hesaplanabilirlik",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 18/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nBiçimsel Sistemlerin Sınırları: Gödel, Turing ve Hesaplanabilirlik\n\nMatematiksel doğruluk kanıtlanabilirlikten daha mı geniştir? Öz-referans paradoksları ve zihnin mekanizması.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 19,
+      "date": "2026-11-07",
+      "theme": "Çoklu Dünyalar Yorumu vs. Kopenhag Yorumu",
+      "headline": "Dalga Fonksiyonu Çöküyor mu Yoksa Evren Dallanıyor mu?",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 19/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nDalga Fonksiyonu Çöküyor mu Yoksa Evren Dallanıyor mu?\n\nHugh Everett’in Evrensel Dalga Fonksiyonu yaklaşımı ile olasılıksal çöküş postülatının felsefi karşılaştırması.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 20,
+      "date": "2026-11-08",
+      "theme": "PWA Mobil & Masaüstü Uygulama Deneyimi",
+      "headline": "Sci-Phi Portalını Cihazınıza Uygulama Olarak İndirin — Çevrimdışı Okuma & Dinleme",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 20/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nSci-Phi Portalını Cihazınıza Uygulama Olarak İndirin — Çevrimdışı Okuma & Dinleme\n\nTek tıkla PWA kurulumu ile 299 makaleye ve simülatörlere çevrimdışı erişin.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 21,
+      "date": "2026-11-09",
+      "theme": "Genel Portal Lansmanı & 8 Site Ekosistemi",
+      "headline": "Sci-Phi: Bilim ve Felsefe Portalı — 299 Makale, 10 Dil Sesli Dinleme ve İnteraktif Simülatörler",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 21/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nSci-Phi: Bilim ve Felsefe Portalı — 299 Makale, 10 Dil Sesli Dinleme ve İnteraktif Simülatörler\n\nEmre Pelit (emrepelit39@gmail.com) tarafından kurulan Sci-Phi; fizik, kozmoloji, zihin felsefesi ve formal mantık alanında 299 makale, 10 dilde çeviri/TTS ve interaktif laboratuvarlarla yayında.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 22,
+      "date": "2026-11-10",
+      "theme": "Blok Evren & Minkowski Uzayzamanı",
+      "headline": "Zaman Gerçekten Akıyor mu? Blok Evren ve Ebediyetçilik Simülasyonu",
+      "targetUrl": "https://sci-phi.ai.studio/makale/zamanin-simulasyon-yapisi-ve-noronal-zaman-algisi",
+      "postText": "📣 [Gün 22/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nZaman Gerçekten Akıyor mu? Blok Evren ve Ebediyetçilik Simülasyonu\n\nÖzel görelilikte eşzamanlılığın göreliliği, geçmiş-şimdi-gelecek ayrımının ontolojik statüsü ve 4 boyutlu Minkowski uzayzaman diyagramı.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio/makale/zamanin-simulasyon-yapisi-ve-noronal-zaman-algisi\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 23,
+      "date": "2026-11-11",
+      "theme": "Kuantum Dolanıklık & Bell Eşitsizlikleri",
+      "headline": "Yerel Gerçekçiliğin Sonu: Kuantum Dolanıklık ve Bell Teoremi Laboratuvarı",
+      "targetUrl": "https://sci-phi.ai.studio/makale/kuantum-dolaniklilik-ve-evrenin-dokusu-uzay-zaman-illuzyonu",
+      "postText": "📣 [Gün 23/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nYerel Gerçekçiliğin Sonu: Kuantum Dolanıklık ve Bell Teoremi Laboratuvarı\n\nEPR paradoksundan CHSH-Bell eşitsizliği ihlallerine: Kuantum korelasyonlarını interaktif simülatörde açısal olarak test edin.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio/makale/kuantum-dolaniklilik-ve-evrenin-dokusu-uzay-zaman-illuzyonu\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 24,
+      "date": "2026-11-12",
+      "theme": "Zihin Felsefesi & Çin Odası Deneyi",
+      "headline": "Sentaks Semantiği Doğurur mu? Searle’ün Çin Odası ve Yapay Bilinç",
+      "targetUrl": "https://sci-phi.ai.studio/makale/llmlerin-insan-davranisini-taklit-etmesi-onlarin-suur-sahibi-olduklarini-gosteri",
+      "postText": "📣 [Gün 24/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nSentaks Semantiği Doğurur mu? Searle’ün Çin Odası ve Yapay Bilinç\n\nSembol manipülasyonu ile gerçek öznel deneyim (Qualia) arasındaki uçurum: Yapay zeka gerçekten anlayabilir mi?\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio/makale/llmlerin-insan-davranisini-taklit-etmesi-onlarin-suur-sahibi-olduklarini-gosteri\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 25,
+      "date": "2026-11-13",
+      "theme": "10 Dilde Sesli Makale (Podcast / TTS) Deneyimi",
+      "headline": "1.912 Saat Dinleme Süresi: 299 Bilim ve Felsefe Makalesini 10 Dilde Sesli Dinleyin",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 25/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\n1.912 Saat Dinleme Süresi: 299 Bilim ve Felsefe Makalesini 10 Dilde Sesli Dinleyin\n\nTürkçe, İngilizce, Almanca, Fransızca, İspanyolca, İtalyanca, Rusça, Arapça, Çince ve Japonca doğal ses motoruyla tüm külliyatı dinleyin.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 26,
+      "date": "2026-11-14",
+      "theme": "Termodinamik & Entropinin Zaman Oku",
+      "headline": "Boltzmann Beyinleri, Entropi ve Kozmolojik Zamanın Yönü",
+      "targetUrl": "https://sci-phi.ai.studio/makale/evren-her-zaman-tekil-bir-olguydu-ve-ilelebet-de-oyle-kalacak",
+      "postText": "📣 [Gün 26/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nBoltzmann Beyinleri, Entropi ve Kozmolojik Zamanın Yönü\n\nMikroskobik fizik yasaları zaman-simetrik iken neden makroskobik evrende zaman yalnızca geleceğe doğru akar?\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio/makale/evren-her-zaman-tekil-bir-olguydu-ve-ilelebet-de-oyle-kalacak\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 27,
+      "date": "2026-11-15",
+      "theme": "Formal Mantık & Safsata Dedektifi",
+      "headline": "Diyalektik Triad (Tez-Antitez-Sentez) ve Mantıksal Safsata Analizi",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 27/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nDiyalektik Triad (Tez-Antitez-Sentez) ve Mantıksal Safsata Analizi\n\nArgümanların geçerliliğini Sokratik diyalektik ve formal mantık araçlarıyla test edin.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 28,
+      "date": "2026-11-16",
+      "theme": "Gödel Eksiklik Teoremleri & Matematik Felsefesi",
+      "headline": "Biçimsel Sistemlerin Sınırları: Gödel, Turing ve Hesaplanabilirlik",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 28/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nBiçimsel Sistemlerin Sınırları: Gödel, Turing ve Hesaplanabilirlik\n\nMatematiksel doğruluk kanıtlanabilirlikten daha mı geniştir? Öz-referans paradoksları ve zihnin mekanizması.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 29,
+      "date": "2026-11-17",
+      "theme": "Çoklu Dünyalar Yorumu vs. Kopenhag Yorumu",
+      "headline": "Dalga Fonksiyonu Çöküyor mu Yoksa Evren Dallanıyor mu?",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 29/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nDalga Fonksiyonu Çöküyor mu Yoksa Evren Dallanıyor mu?\n\nHugh Everett’in Evrensel Dalga Fonksiyonu yaklaşımı ile olasılıksal çöküş postülatının felsefi karşılaştırması.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    },
+    {
+      "day": 30,
+      "date": "2026-11-18",
+      "theme": "PWA Mobil & Masaüstü Uygulama Deneyimi",
+      "headline": "Sci-Phi Portalını Cihazınıza Uygulama Olarak İndirin — Çevrimdışı Okuma & Dinleme",
+      "targetUrl": "https://sci-phi.ai.studio",
+      "postText": "📣 [Gün 30/30 • Sci-Phi Bilim & Felsefe Tanıtım Serisi]\nSci-Phi Portalını Cihazınıza Uygulama Olarak İndirin — Çevrimdışı Okuma & Dinleme\n\nTek tıkla PWA kurulumu ile 299 makaleye ve simülatörlere çevrimdışı erişin.\n\n📖 60.104+ Net Okuma • 81.601+ Görüntüleme • 1.912 Saat Sesli Dinleme\n🔗 Hemen İncele & Dinle: https://sci-phi.ai.studio\n👤 Yazar: Emre Pelit (emrepelit39@gmail.com • https://www.linkedin.com/in/emrepelit109)\n\n#SciPhi #BilimFelsefesi #EmrePelit #Fizik #Felsefe #Kozmoloji",
+      "hashtags": [
+        "#SciPhi",
+        "#BilimFelsefesi",
+        "#EmrePelit",
+        "#Fizik",
+        "#ZihinFelsefesi",
+        "#Kozmoloji"
+      ],
+      "status": "scheduled_auto",
+      "platformsCount": 10
+    }
+  ]
+}

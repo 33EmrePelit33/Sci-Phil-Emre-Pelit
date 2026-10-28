@@ -1,0 +1,326 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script id="vite-ws-shield">
+      (function () {
+        var origError = console.error;
+        var origWarn = console.warn;
+        function shouldSuppress(args) {
+          try {
+            var msg = Array.prototype.slice.call(args).map(function (a) {
+              return typeof a === 'string' ? a : (a && a.message) ? a.message : String(a);
+            }).join(' ');
+            return (
+              msg.indexOf('failed to connect to websocket') !== -1 ||
+              msg.indexOf('WebSocket closed without opened') !== -1 ||
+              msg.indexOf('[vite] server connection lost') !== -1
+            );
+          } catch (e) {
+            return false;
+          }
+        }
+        console.error = function () {
+          if (shouldSuppress(arguments)) return;
+          return origError.apply(console, arguments);
+        };
+        console.warn = function () {
+          if (shouldSuppress(arguments)) return;
+          return origWarn.apply(console, arguments);
+        };
+        window.addEventListener('unhandledrejection', function (event) {
+          var reason = event && event.reason;
+          var text = reason && (reason.message || String(reason)) || '';
+          if (
+            text.indexOf('WebSocket closed without opened') !== -1 ||
+            text.indexOf('failed to connect to websocket') !== -1
+          ) {
+            event.preventDefault();
+          }
+        });
+        var NativeWebSocket = window.WebSocket;
+        if (NativeWebSocket) {
+          var PatchedWebSocket = function (url, protocols) {
+            var isViteHmr =
+              protocols === 'vite-hmr' ||
+              (Array.isArray(protocols) && protocols.indexOf('vite-hmr') !== -1) ||
+              (typeof url === 'string' && url.indexOf('token=') !== -1);
+            if (isViteHmr) {
+              var target = new EventTarget();
+              target.url = String(url || '');
+              target.readyState = 1;
+              target.protocol = 'vite-hmr';
+              target.extensions = '';
+              target.bufferedAmount = 0;
+              target.binaryType = 'blob';
+              target.OPEN = 1;
+              target.CONNECTING = 0;
+              target.CLOSING = 2;
+              target.CLOSED = 3;
+              target.send = function () {};
+              target.close = function () {
+                target.readyState = 3;
+              };
+              setTimeout(function () {
+                try {
+                  var openEv = new Event('open');
+                  if (typeof target.onopen === 'function') target.onopen(openEv);
+                  target.dispatchEvent(openEv);
+                  var msgEv = new MessageEvent('message', { data: JSON.stringify({ type: 'connected' }) });
+                  if (typeof target.onmessage === 'function') target.onmessage(msgEv);
+                  target.dispatchEvent(msgEv);
+                } catch (e) {}
+              }, 10);
+              return target;
+            }
+            return protocols !== undefined
+              ? new NativeWebSocket(url, protocols)
+              : new NativeWebSocket(url);
+          };
+          PatchedWebSocket.prototype = NativeWebSocket.prototype;
+          PatchedWebSocket.CONNECTING = NativeWebSocket.CONNECTING;
+          PatchedWebSocket.OPEN = NativeWebSocket.OPEN;
+          PatchedWebSocket.CLOSING = NativeWebSocket.CLOSING;
+          PatchedWebSocket.CLOSED = NativeWebSocket.CLOSED;
+          window.WebSocket = PatchedWebSocket;
+        }
+      })();
+    </script>
+    <title>Sci-Phi: Bilim ve Felsefe Portalı</title>
+    <meta name="description" content="Emre Pelit tarafından hazırlanan bilim, fizik, zihin felsefesi, epistemoloji ve diyalektik düşünce portalı. Kapsamlı makaleler, interaktif simülatörler ve analizler." />
+    <meta name="author" content="Emre Pelit" />
+    <meta name="keywords" content="Emre Pelit, Sci-Phi, Bilim ve Felsefe Portalı, Kuantum Dolanıklığı, Blok Evren, Zihin Felsefesi, Epistemoloji, Yapay Zeka, Diyalektik Mantık, Fizik, Felsefe" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="yandex" content="index, follow" />
+    <meta name="revisit-after" content="1 days" />
+
+    <!-- OpenGraph Social Metadata -->
+    <meta property="og:title" content="Sci-Phi: Bilim ve Felsefe Portalı" />
+    <meta property="og:description" content="Emre Pelit tarafından hazırlanan bilim, fizik, zihin felsefesi, epistemoloji ve diyalektik düşünce portalı. Kapsamlı makaleler, interaktif simülatörler ve analizler." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://emre-pelit-sci-phi.ai.studio/" />
+    <meta property="og:site_name" content="Sci-Phi: Bilim ve Felsefe Portalı" />
+    <meta property="og:locale" content="tr_TR" />
+
+    <!-- Twitter / X Card Metadata -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Sci-Phi: Bilim ve Felsefe Portalı" />
+    <meta name="twitter:description" content="Emre Pelit tarafından hazırlanan bilim, fizik, zihin felsefesi, epistemoloji ve diyalektik düşünce portalı. Kapsamlı makaleler, interaktif simülatörler ve analizler." />
+    <meta name="twitter:creator" content="@emrepelit" />
+
+    <link rel="canonical" href="https://emre-pelit-sci-phi.ai.studio/" />
+    <meta name="theme-color" content="#020617" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Sci-Phi" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="google-site-verification" content="google5d3436c931b6024c" />
+
+    <!-- Google ve Tüm Tarayıcılar İçin 10 Doğal Dil Hreflang İndeksleme Bağlantıları -->
+    <link rel="alternate" hreflang="tr" href="https://emre-pelit-sci-phi.ai.studio/?lang=tr" />
+    <link rel="alternate" hreflang="en" href="https://emre-pelit-sci-phi.ai.studio/?lang=en" />
+    <link rel="alternate" hreflang="de" href="https://emre-pelit-sci-phi.ai.studio/?lang=de" />
+    <link rel="alternate" hreflang="fr" href="https://emre-pelit-sci-phi.ai.studio/?lang=fr" />
+    <link rel="alternate" hreflang="es" href="https://emre-pelit-sci-phi.ai.studio/?lang=es" />
+    <link rel="alternate" hreflang="it" href="https://emre-pelit-sci-phi.ai.studio/?lang=it" />
+    <link rel="alternate" hreflang="ru" href="https://emre-pelit-sci-phi.ai.studio/?lang=ru" />
+    <link rel="alternate" hreflang="ar" href="https://emre-pelit-sci-phi.ai.studio/?lang=ar" />
+    <link rel="alternate" hreflang="zh" href="https://emre-pelit-sci-phi.ai.studio/?lang=zh" />
+    <link rel="alternate" hreflang="ja" href="https://emre-pelit-sci-phi.ai.studio/?lang=ja" />
+    <link rel="alternate" hreflang="x-default" href="https://emre-pelit-sci-phi.ai.studio/" />
+
+    <!-- Bilimsel Yayın & Akademik İndeksleme Künyesi (Google Scholar, Highwire Press, Dublin Core, PRISM, OAI-PMH 2.0) -->
+    <meta name="citation_journal_title" content="Sci-Phi: Journal of Science, Philosophy &amp; Dialectical Inquiry" />
+    <meta name="citation_journal_abbrev" content="Sci-Phi J. Sci. Phil." />
+    <meta name="citation_issn" content="3023-8914" />
+    <meta name="citation_publisher" content="Sci-Phi Academic Publishing — Emre Pelit Research Portal" />
+    <meta name="citation_author" content="Pelit, Emre" />
+    <meta name="citation_author_institution" content="Sci-Phi: Bilim ve Felsefe Araştırmaları Enstitüsü (Institute of Science, Philosophy &amp; Dialectical Inquiry)" />
+    <meta name="citation_author_email" content="emrepelit39@gmail.com" />
+    <meta name="citation_author_orcid" content="0009-0000-8391-4210" />
+    <meta name="citation_language" content="tr" />
+    <meta name="DC.title" content="Sci-Phi: Bilim ve Felsefe Portalı — Journal of Science, Philosophy &amp; Dialectical Inquiry" />
+    <meta name="DC.creator" content="Emre Pelit" />
+    <meta name="DC.publisher" content="Sci-Phi Academic Publishing" />
+    <meta name="DC.type" content="Collection.Serial.Journal" />
+    <meta name="DC.format" content="text/html" />
+    <meta name="DC.identifier" content="ISSN:3023-8914" />
+    <meta name="DC.rights" content="CC BY-NC-ND 4.0 International (Diamond Open Access)" />
+    <meta name="prism.publicationName" content="Sci-Phi: Journal of Science, Philosophy &amp; Dialectical Inquiry" />
+    <meta name="prism.issn" content="3023-8914" />
+    <meta name="prism.eIssn" content="3023-8914" />
+    <link rel="alternate" type="application/xml" title="OAI-PMH 2.0 Open Access Academic Repository" href="https://emre-pelit-sci-phi.ai.studio/oai?verb=Identify" />
+    <link rel="sitemap" type="application/xml" title="Google Scholar Academic Sitemap" href="https://emre-pelit-sci-phi.ai.studio/scholar-sitemap.xml" />
+
+    <!-- Schema.org JSON-LD Structured Data (Google Rich Snippets, Scholarly Periodical & Sitelinks Searchbox) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://emre-pelit-sci-phi.ai.studio/#website",
+          "url": "https://emre-pelit-sci-phi.ai.studio/",
+          "name": "Sci-Phi: Bilim ve Felsefe Portalı",
+          "description": "Emre Pelit tarafından hazırlanan bilim, fizik, zihin felsefesi, epistemoloji ve diyalektik düşünce portalı. 8 web sitesinin kalıcı HTTP 301 yönlendirmesi ile tekil web otoritesi merkezi (emre-pelit-sci-phi.ai.studio).",
+          "inLanguage": ["tr", "en", "de", "fr", "es", "it", "ru", "ar", "zh", "ja"],
+          "sameAs": [
+            "https://emre-pelit-sci-phi.ai.studio/",
+            "https://sci-phi.ai.studio/",
+            "https://science-philosophy.grok.me",
+            "https://emrepelit7337.blogspot.com/",
+            "https://sci-phil.ai.studio",
+            "https://science-philosophy.ai.studio",
+            "https://science-philosophy-emre-pelit.ai.studio",
+            "https://emrepelit.github.io/science-philosophy"
+          ],
+          "publisher": {
+            "@type": "Person",
+            "@id": "https://emre-pelit-sci-phi.ai.studio/#author",
+            "name": "Emre Pelit",
+            "email": "emrepelit39@gmail.com",
+            "url": "https://emre-pelit-sci-phi.ai.studio/",
+            "identifier": "https://orcid.org/0009-0000-8391-4210",
+            "sameAs": [
+              "https://orcid.org/0009-0000-8391-4210",
+              "https://www.linkedin.com/in/emrepelit109",
+              "https://emre-pelit-sci-phi.ai.studio/",
+              "https://sci-phi.ai.studio/",
+              "https://science-philosophy.grok.me",
+              "https://emrepelit7337.blogspot.com/",
+              "https://sci-phil.ai.studio",
+              "https://science-philosophy.ai.studio",
+              "https://science-philosophy-emre-pelit.ai.studio",
+              "https://emrepelit.github.io/science-philosophy"
+            ],
+            "jobTitle": "Felsefeci, Yazar & Araştırmacı"
+          },
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://emre-pelit-sci-phi.ai.studio/?search={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "Periodical",
+          "@id": "https://emre-pelit-sci-phi.ai.studio/#periodical",
+          "name": "Sci-Phi: Journal of Science, Philosophy & Dialectical Inquiry",
+          "alternateName": "Sci-Phi: Bilim ve Felsefe Portalı",
+          "issn": "3023-8914",
+          "url": "https://emre-pelit-sci-phi.ai.studio/",
+          "isAccessibleForFree": true,
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "publisher": { "@id": "https://emre-pelit-sci-phi.ai.studio/#author" },
+          "inLanguage": ["tr", "en", "de", "fr", "es", "it", "ru", "ar", "zh", "ja"]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://emre-pelit-sci-phi.ai.studio/#collection",
+          "url": "https://emre-pelit-sci-phi.ai.studio/",
+          "name": "Sci-Phi Makaleler ve Felsefi Araştırmalar Kütüphanesi",
+          "description": "304+ felsefi ve bilimsel inceleme, diyalektik üçlüler, simülatörler ve analizler.",
+          "isPartOf": [
+            { "@id": "https://emre-pelit-sci-phi.ai.studio/#website" },
+            { "@id": "https://emre-pelit-sci-phi.ai.studio/#periodical" }
+          ],
+          "about": [
+            { "@type": "Thing", "name": "Fizik & Kozmoloji" },
+            { "@type": "Thing", "name": "Zihin & Bilinç Felsefesi" },
+            { "@type": "Thing", "name": "Epistemoloji" },
+            { "@type": "Thing", "name": "Diyalektik & Mantık" },
+            { "@type": "Thing", "name": "Etik & Teknoloji" }
+          ]
+        }
+      ]
+    }
+    </script>
+
+    <script>
+      (function () {
+        // Silently suppress unhandled websocket errors in AI Studio preview environment
+        window.addEventListener("unhandledrejection", function (event) {
+          var reason = event && event.reason;
+          var msg = typeof reason === "string" ? reason : (reason && reason.message) || "";
+          if (msg.indexOf("WebSocket") !== -1 || msg.indexOf("websocket") !== -1) {
+            event.preventDefault();
+            if (event.stopImmediatePropagation) event.stopImmediatePropagation();
+          }
+        }, true);
+
+        var origConsoleError = console.error;
+        console.error = function () {
+          var args = Array.prototype.slice.call(arguments);
+          var isViteWs = args.some(function (arg) {
+            var str = typeof arg === "string" ? arg : (arg && arg.message) || String(arg);
+            return str.indexOf("[vite] failed to connect to websocket") !== -1 ||
+                   str.indexOf("WebSocket closed without opened") !== -1;
+          });
+          if (isViteWs) return;
+          origConsoleError.apply(console, args);
+        };
+
+        // Analytics Panosu <-> Ana Portal (React) Canlı 24 Saat Senkronizasyon Köprüsü
+        var SYNC_STORAGE_KEY = "sciphi_analytics_sync_state";
+        var syncChannel = typeof BroadcastChannel !== "undefined" ? new BroadcastChannel("sciphi_analytics_channel") : null;
+        var latestTotals = { sumReads: 73280, sumViews: 103604 };
+
+        function readStoredSyncState() {
+          try {
+            var raw = localStorage.getItem(SYNC_STORAGE_KEY);
+            if (!raw) return null;
+            return JSON.parse(raw);
+          } catch (e) {
+            return null;
+          }
+        }
+
+        function notifyUpdate(reads, views) {
+          var r = Math.max(latestTotals.sumReads, Number(reads) || 0);
+          var v = Math.max(latestTotals.sumViews, Number(views) || 0);
+          latestTotals.sumReads = r;
+          latestTotals.sumViews = v;
+          try {
+            window.dispatchEvent(new CustomEvent("sciphi:analytics-updated", { detail: latestTotals }));
+          } catch (e) {}
+        }
+
+        var stored = readStoredSyncState();
+        if (stored && (stored.sumReads || stored.sumViews)) {
+          notifyUpdate(stored.sumReads, stored.sumViews);
+        }
+
+        if (syncChannel) {
+          syncChannel.onmessage = function (event) {
+            var payload = event.data;
+            if (payload && (payload.sumReads || payload.sumViews)) {
+              notifyUpdate(payload.sumReads, payload.sumViews);
+            }
+          };
+        }
+
+        window.addEventListener("storage", function (e) {
+          if (e.key === SYNC_STORAGE_KEY && e.newValue) {
+            try {
+              var parsed = JSON.parse(e.newValue);
+              if (parsed && (parsed.sumReads || parsed.sumViews)) {
+                notifyUpdate(parsed.sumReads, parsed.sumViews);
+              }
+            } catch (err) {}
+          }
+        });
+      })();
+    </script>
+  </head>
+  <body class="bg-slate-950 text-slate-100 antialiased">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

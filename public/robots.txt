@@ -1,0 +1,145 @@
+User-agent: *
+Allow: /
+Allow: /makale/
+Allow: /scholar/
+Allow: /citations/
+Allow: /oai
+Allow: /api/oai
+Allow: /api/articles/
+Allow: /tr/
+Allow: /en/
+Allow: /de/
+Allow: /fr/
+Allow: /es/
+Allow: /it/
+Allow: /ru/
+Allow: /ar/
+Allow: /zh/
+Allow: /ja/
+Allow: /analytics.html
+Allow: /automation-panel.html
+
+User-agent: Googlebot
+Allow: /
+Allow: /makale/
+Allow: /scholar/
+Allow: /citations/
+Allow: /oai
+Allow: /analytics.html
+Allow: /automation-panel.html
+
+User-agent: Googlebot-Scholar
+Allow: /
+Allow: /makale/
+Allow: /scholar/
+Allow: /citations/
+Allow: /oai
+
+User-agent: ScholarBot
+Allow: /
+Allow: /makale/
+Allow: /scholar/
+Allow: /citations/
+Allow: /oai
+
+User-agent: SemanticScholarBot
+Allow: /
+Allow: /makale/
+Allow: /scholar/
+Allow: /citations/
+Allow: /oai
+
+User-agent: OpenAlexBot
+Allow: /
+Allow: /makale/
+Allow: /scholar/
+Allow: /citations/
+Allow: /oai
+
+User-agent: CrossrefBot
+Allow: /
+Allow: /makale/
+Allow: /scholar/
+Allow: /citations/
+Allow: /oai
+
+User-agent: CiteSeerXBot
+Allow: /
+Allow: /makale/
+Allow: /scholar/
+Allow: /citations/
+Allow: /oai
+
+User-agent: ia_archiver
+Allow: /
+Allow: /makale/
+Allow: /scholar/
+Allow: /citations/
+Allow: /oai
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+Allow: /makale/
+
+User-agent: Bingbot
+Allow: /
+Allow: /makale/
+Allow: /scholar/
+Allow: /citations/
+
+User-agent: YandexBot
+Allow: /
+Allow: /makale/
+Allow: /scholar/
+
+User-agent: DuckDuckBot
+Allow: /
+Allow: /makale/
+Allow: /scholar/
+
+User-agent: Applebot
+Allow: /
+Allow: /makale/
+Allow: /scholar/
+
+User-agent: Baiduspider
+Allow: /
+Allow: /makale/
+Allow: /scholar/
+
+User-agent: NaverBot
+Allow: /
+Allow: /makale/
+
+User-agent: SeznamBot
+Allow: /
+Allow: /makale/
+
+User-agent: Slurp
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+Sitemap: https://emre-pelit-sci-phi.ai.studio/sitemap.xml
+Sitemap: https://emre-pelit-sci-phi.ai.studio/scholar-sitemap.xml
+Sitemap: https://emre-pelit-sci-phi.ai.studio/sitemap-tr.xml
+Sitemap: https://emre-pelit-sci-phi.ai.studio/sitemap-en.xml
+Sitemap: https://emre-pelit-sci-phi.ai.studio/sitemap-de.xml
+Sitemap: https://emre-pelit-sci-phi.ai.studio/sitemap-fr.xml
+Sitemap: https://emre-pelit-sci-phi.ai.studio/sitemap-es.xml
+Sitemap: https://emre-pelit-sci-phi.ai.studio/sitemap-it.xml
+Sitemap: https://emre-pelit-sci-phi.ai.studio/sitemap-ru.xml
+Sitemap: https://emre-pelit-sci-phi.ai.studio/sitemap-ar.xml
+Sitemap: https://emre-pelit-sci-phi.ai.studio/sitemap-zh.xml
+Sitemap: https://emre-pelit-sci-phi.ai.studio/sitemap-ja.xml
+Host: emre-pelit-sci-phi.ai.studio

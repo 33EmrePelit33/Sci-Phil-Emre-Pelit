@@ -1,0 +1,150 @@
+{
+  "deltasBySite": {
+    "grok-me": {
+      "reads": 12295,
+      "views": 18343
+    },
+    "blogger": {
+      "reads": 9536,
+      "views": 17870
+    },
+    "sci-phi-primary": {
+      "reads": 4174,
+      "views": 6365
+    },
+    "sci-phil-legacy": {
+      "reads": 4633,
+      "views": 7674
+    },
+    "science-philosophy-domain": {
+      "reads": 472,
+      "views": 1013
+    },
+    "science-philosophy-author": {
+      "reads": 567,
+      "views": 989
+    },
+    "github-pages": {
+      "reads": 450,
+      "views": 961
+    },
+    "emre-pelit-sci-phi": {
+      "reads": 3425,
+      "views": 5786
+    }
+  },
+  "articleDeltas": {
+    "yaratma-sanati-ve-yapilabilecekler": {
+      "sci-phi-primary": {
+        "reads": 2,
+        "views": 5
+      },
+      "sci-phil-legacy": {
+        "reads": 4,
+        "views": 7
+      }
+    }
+  },
+  "uniqueVisitors24h": 11251,
+  "avgTimeOnScreen24h": "4 dk 18 sn",
+  "bounceRate24h": "22.1%",
+  "activeVisitors": 33,
+  "lastUpdated": "2026-10-28T15:46:26.517Z",
+  "recentEvents": [
+    {
+      "type": "live_article_read",
+      "details": "emrepelit7337.blogspot.com → Si les interfaces cerveau-machine se développent (+1 Net Okunma, +1 Görüntüleme)",
+      "timestamp": "15:46:26 (Canlı)"
+    },
+    {
+      "type": "live_page_view",
+      "details": "science-philosophy.grok.me → Beyin Bilgisayar Arayüzleri Hedeflenen Noktaya K (+1 Görüntüleme)",
+      "timestamp": "15:46:20 (Canlı)"
+    },
+    {
+      "type": "live_article_read",
+      "details": "sci-phi.ai.studio → Let’s Imagine We Delegate All Work to LLMs, So W (+1 Net Okunma, +1 Görüntüleme)",
+      "timestamp": "15:46:14 (Canlı)"
+    },
+    {
+      "type": "live_page_view",
+      "details": "emre-pelit-sci-phi.ai.studio → Stellen wir uns vor, wir übertragen alle Aufgabe (+1 Görüntüleme)",
+      "timestamp": "15:46:08 (Canlı)"
+    },
+    {
+      "type": "live_article_read",
+      "details": "sci-phil.ai.studio → Imaginemos que delegamos todo el trabajo a los L (+1 Net Okunma, +1 Görüntüleme)",
+      "timestamp": "15:46:02 (Canlı)"
+    },
+    {
+      "type": "live_page_view",
+      "details": "emrepelit7337.blogspot.com → Imaginons que nous déléguions tout le travail au (+1 Görüntüleme)",
+      "timestamp": "15:45:56 (Canlı)"
+    },
+    {
+      "type": "live_article_read",
+      "details": "science-philosophy.grok.me → Bütün İşleri LLM’lere Yüklediğimizi Düşünelim, E (+1 Net Okunma, +1 Görüntüleme)",
+      "timestamp": "15:45:50 (Canlı)"
+    },
+    {
+      "type": "live_page_view",
+      "details": "sci-phil.ai.studio → Welche Zeit leben wir und blieben wir dieselben, (+1 Görüntüleme)",
+      "timestamp": "15:45:38 (Canlı)"
+    },
+    {
+      "type": "live_article_read",
+      "details": "emrepelit7337.blogspot.com → Hangi Zamanı Yaşamaktayız ve Zamanda Yolculuk Ya (+1 Net Okunma, +1 Görüntüleme)",
+      "timestamp": "15:45:32 (Canlı)"
+    },
+    {
+      "type": "live_page_view",
+      "details": "science-philosophy.grok.me → Is Reality One-Dimensional and Indestructible? (+1 Görüntüleme)",
+      "timestamp": "15:45:26 (Canlı)"
+    },
+    {
+      "type": "live_article_read",
+      "details": "sci-phi.ai.studio → ¿Es la Realidad Unidimensional e Indestructible? (+1 Net Okunma, +1 Görüntüleme)",
+      "timestamp": "15:45:20 (Canlı)"
+    },
+    {
+      "type": "live_page_view",
+      "details": "emre-pelit-sci-phi.ai.studio → Ist die Realität eindimensional und unzerstörbar (+1 Görüntüleme)",
+      "timestamp": "15:45:14 (Canlı)"
+    }
+  ],
+  "previousDayClosingBySite": {
+    "grok-me": {
+      "reads": 12295,
+      "views": 18343
+    },
+    "blogger": {
+      "reads": 9535,
+      "views": 17869
+    },
+    "sci-phi-primary": {
+      "reads": 4174,
+      "views": 6365
+    },
+    "sci-phil-legacy": {
+      "reads": 4633,
+      "views": 7674
+    },
+    "science-philosophy-domain": {
+      "reads": 472,
+      "views": 1013
+    },
+    "science-philosophy-author": {
+      "reads": 567,
+      "views": 989
+    },
+    "github-pages": {
+      "reads": 450,
+      "views": 961
+    },
+    "emre-pelit-sci-phi": {
+      "reads": 3425,
+      "views": 5786
+    }
+  },
+  "lastRolloverDay": "2026-10-28"
+}
